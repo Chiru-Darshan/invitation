@@ -53,6 +53,7 @@
 
 
 }
+
 .content{
     display: flex;
     align-items: center;
@@ -67,6 +68,13 @@
         background-color: black;
         padding: 10px;
 
+      }
+      .swap{
+        display: flex;
+        flex-direction: column-reverse;
+      }
+      .swap-text{
+        text-align: center;
       }
 }
 
