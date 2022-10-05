@@ -62,7 +62,7 @@
 @media only screen and (max-width: 600px) {
     .middle {
         position: absolute;
-        top:93%;
+        ;
         width: 100%;
         text-align: center;
         background-color: black;
